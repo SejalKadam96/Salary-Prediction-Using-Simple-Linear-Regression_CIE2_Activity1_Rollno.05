@@ -111,6 +111,8 @@ Salary-Prediction-Using-Simple-Linear-Regression/
 5. Run all cells in order.
 
 ---
+##Reference
+ https://github.com/complexiota
 
 ## 📌 Conclusion
 
